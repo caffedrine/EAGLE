@@ -1,0 +1,110 @@
+# NetScript
+# 
+# Exported from Main.sch at 6/27/2017 2:40:10 PM
+# 
+# EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+# 
+Change Class 0;
+Signal 'EN1'      'ESP_L'    '8' \
+                  'IN'       '3' \
+                  ;
+Change Class 0;
+Signal 'EN2'      'ESP_L'    '10' \
+                  'IN'       '5' \
+                  ;
+Change Class 0;
+Signal 'ENC_L'    'ESP_L'    '4' \
+                  ;
+Change Class 0;
+Signal 'ENC_R'    'ESP_R'    '18' \
+                  ;
+Change Class 0;
+Signal 'GND'      'C4'       '2' \
+                  'C5'       '-' \
+                  'C6'       '-' \
+                  'C7'       '-' \
+                  'ESP_R'    '3' \
+                  'IN'       '1' \
+                  'LED1'     'K' \
+                  'LED2'     'K' \
+                  'OUT'      '1' \
+                  'R2'       '1' \
+                  'U3'       'GND1' \
+                  ;
+Change Class 0;
+Signal 'LED1'     'ESP_R'    '9' \
+                  'R5'       '1' \
+                  ;
+Change Class 0;
+Signal 'LED2'     'ESP_R'    '11' \
+                  'R4'       '1' \
+                  ;
+Change Class 0;
+Signal 'N$1'      'M_OUT'    '1' \
+                  'OUT'      '3' \
+                  ;
+Change Class 0;
+Signal 'N$2'      'M_OUT'    '2' \
+                  'OUT'      '4' \
+                  ;
+Change Class 0;
+Signal 'N$3'      'M_OUT'    '3' \
+                  'OUT'      '5' \
+                  ;
+Change Class 0;
+Signal 'N$4'      'M_OUT'    '4' \
+                  'OUT'      '6' \
+                  ;
+Change Class 0;
+Signal 'N$6'      'ESP_R'    '6' \
+                  'RX/TX'    '1' \
+                  ;
+Change Class 0;
+Signal 'N$7'      'IC2'      '1' \
+                  'R2'       '2' \
+                  'R3'       '2' \
+                  ;
+Change Class 0;
+Signal 'N$9'      'ESP_R'    '10' \
+                  'RX/TX'    '3' \
+                  ;
+Change Class 0;
+Signal 'N$10'     'LED2'     'A' \
+                  'R4'       '2' \
+                  ;
+Change Class 0;
+Signal 'N$12'     'ESP_R'    '5' \
+                  'R1'       '1' \
+                  ;
+Change Class 0;
+Signal 'N$13'     'LED1'     'A' \
+                  'R5'       '2' \
+                  ;
+Change Class 0;
+Signal 'N$14'     'ESP_R'    '8' \
+                  'RX/TX'    '2' \
+                  ;
+Change Class 0;
+Signal 'PH1'      'ESP_L'    '9' \
+                  'IN'       '4' \
+                  ;
+Change Class 0;
+Signal 'PH2'      'ESP_L'    '7' \
+                  'IN'       '6' \
+                  ;
+Change Class 0;
+Signal 'VCC'      'C4'       '1' \
+                  'C7'       '+' \
+                  'ESP_R'    '4' \
+                  'IC2'      '2' \
+                  'IN'       '2' \
+                  'R1'       '2' \
+                  'R3'       '1' \
+                  ;
+Change Class 0;
+Signal 'VDD'      'C5'       '+' \
+                  'C6'       '+' \
+                  'IC2'      '3' \
+                  'OUT'      '2' \
+                  'U3'       'VBUS1' \
+                  ;
